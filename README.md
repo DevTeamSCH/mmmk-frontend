@@ -1,3 +1,7 @@
+[![pipeline status](https://git.sch.bme.hu/kszk/devteam/mmmk-frontend/badges/master/pipeline.svg)](https://git.sch.bme.hu/kszk/devteam/mmmk-frontend/commits/master)
+
+> TODO: Meg hagyni ami releváns a többi törölni
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
